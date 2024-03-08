@@ -1,0 +1,16 @@
+Flask
+Flask-Login
+Flask-Migrate
+Flask-Moment
+Flask-SQLAlchemy
+Flask-WTF
+Jinja2
+SQLAlchemy
+WTForms
+Gunicorn
+wheel
+requests
+Flask-Bcrypt
+rq
+setuptools
+email_validator
